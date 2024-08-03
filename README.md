@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julia Ebuwa Iguobaro</h1>
 <h3 align="center">I am a passionate software engineer</h3> 
-<img alt="Coding" align="right" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEu9kL5Evf-BMQ1X73auZb-ESwrpWFiHjXkA&s">
+<img alt="Coding" align="center" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66KnwAisu4qIWSueqTkKHJUhHyzIXyaqLhF_e85S2d5pwlDwZGFvj8i4q8w&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juliaebuwa&label=Profile%20views&color=0e75b6&style=flat" alt="juliaebuwa" /> </p>
 
