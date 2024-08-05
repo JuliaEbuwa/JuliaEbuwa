@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Julia Ebuwa Iguobaro</h1>
+<h1 align="center">Hi 👋, I'm Julia Ebuwa Iguobaro
+<div align="right">
+  
+  [![](https://visitcount.itsvg.in/api?id=JuliaEbuwa&icon=0&color=0)](https://visitcount.itsvg.in)</div></h1>
 <h3 align="center">I am a passionate and dedicated Cloud Software Developer with experience in building scalable and reliable codes. Currently, i'm thriving at Decagon Institute, where I contribute to innovative software solutions that make a real impact.</h3>
 
 - 🔭 I’m currently working on **Devops projects**
@@ -44,9 +47,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JuliaEbuwa&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=JuliaEbuwa&icon=0&color=0)](https://visitcount.itsvg.in)
+### ✍️ Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
