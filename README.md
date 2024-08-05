@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julia Ebuwa Iguobaro</h1>
-<h3 align="center">I am a passionate software engineer</h3>
-
+<h3 align="center">I am a passionate and dedicated Cloud Software Developer with experience in building scalable and reliable codes. Currently, i'm thriving at Decagon Institute, where I contribute to innovative software solutions that make a real impact.</h3>
 
 - 🔭 I’m currently working on **Devops projects**
 
